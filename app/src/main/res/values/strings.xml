@@ -2,4 +2,6 @@
     <string name="app_name">GitInfo</string>
     <string name="token_text_hint">Personal access token</string>
     <string name="text_button_main">SIGN IN</string>
+    <string name="personal_access_token_hint">Personal access token</string>
+    <string name="sign_in_button_label">Sign in</string>
 </resources>
